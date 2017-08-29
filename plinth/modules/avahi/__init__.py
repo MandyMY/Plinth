@@ -35,7 +35,7 @@ is_essential = True
 
 managed_services = ['avahi-daemon']
 
-managed_packages = ['avahi-daemon']
+managed_packages = ['avahi']
 
 title = _('Service Discovery')
 

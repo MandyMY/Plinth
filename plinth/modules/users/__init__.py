@@ -31,8 +31,8 @@ version = 1
 
 is_essential = True
 
-managed_packages = ['ldapscripts', 'ldap-utils', 'libnss-ldapd',
-                    'libpam-ldapd', 'nslcd', 'slapd']
+managed_packages = ['openldap-servers', 'migrationtools', 'ldap-utils', 
+                    'nss-dam-ldapd', 'slapd']
 
 first_boot_steps = [
     {

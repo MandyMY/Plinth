@@ -30,7 +30,7 @@ from plinth.menu import main_menu
 
 version = 1
 
-managed_packages = ['sqlite3', 'roundcube', 'roundcube-sqlite3']
+managed_packages = ['sqlite', 'roundcube', 'roundcube-sqlite3']
 
 title = _('Email Client \n (Roundcube)')
 

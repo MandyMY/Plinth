@@ -30,9 +30,9 @@ from plinth.menu import main_menu
 
 version = 1
 
-managed_packages = ['ikiwiki', 'libdigest-sha-perl', 'libxml-writer-perl',
-                    'xapian-omega', 'libsearch-xapian-perl',
-                    'libimage-magick-perl']
+managed_packages = ['ikiwiki', 'perl-Digest-SHA', 'perl-libxml-perl',
+                    'ikiwiki-w3m', 'perl-Search-Xapian',
+                    'ImageMagick-perl']
 
 service = None
 

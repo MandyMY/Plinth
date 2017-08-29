@@ -32,7 +32,7 @@ version = 1
 
 is_essential = True
 
-managed_packages = ['network-manager', 'batctl']
+managed_packages = ['NetworkManager', 'batctl']
 
 title = _('Networks')
 

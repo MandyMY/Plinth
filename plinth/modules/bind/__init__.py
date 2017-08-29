@@ -37,7 +37,7 @@ service = None
 
 managed_services = ['bind9']
 
-managed_packages = ['bind9', 'bind9utils', 'bind9-doc']
+managed_packages = ['bind', 'bind-utils']
 
 description = [
     _('BIND is open source software that enables you to publish your Domain '

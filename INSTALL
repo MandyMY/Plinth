@@ -35,6 +35,38 @@
     python3-setuptools \
     xmlto
 
+ On a Fedora based system, run:
+
+    $ sudo apt-get install \
+    augeas-libs \
+    dblatex \
+    docbook-utils \
+    gettext \
+    glib2 \
+    NetworkManager \
+    openldap-servers \
+    migrationtools \
+    make \
+    ppp \
+    rp-pppoe \
+    python3 \
+    python3-dnf \
+    python3-augeas \
+    python3-bootstrap-form \
+    python3-cherrypy \
+    python3-configobj \
+    python3-coverage \
+    python3-django \
+    python3-gobject \
+    python3-psutil \
+    python3-requests \
+    python3-ruamel.yaml \
+    python3-setuptools \
+    xmlto \
+    pagekite \
+    python3-distutils-extra \
+    python3-dbus
+
 2. Install Plinth:
 
     Unzip the source into a directory.  Change to the directory containing the

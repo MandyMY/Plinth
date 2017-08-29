@@ -34,7 +34,7 @@ service = None
 
 managed_services = ['deluge-web']
 
-managed_packages = ['deluged', 'deluge-web']
+managed_packages = ['delug', 'deluge-web']
 
 title = _('BitTorrent Web Client \n (Deluge)')
 

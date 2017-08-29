@@ -33,7 +33,7 @@ version = 2
 
 managed_services = ['repro']
 
-managed_packages = ['repro']
+managed_packages = ['resiprocate-repro']
 
 title = _('SIP Server \n (repro)')
 

@@ -31,7 +31,7 @@ version = 1
 
 managed_services = ['node-restore']
 
-managed_packages = ['node-restore']
+managed_packages = ['nodejs-sinon-restore']
 
 title = _('Unhosted Storage \n (reStore)')
 
