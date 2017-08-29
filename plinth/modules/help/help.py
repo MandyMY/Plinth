@@ -20,7 +20,7 @@ Help module for Plinth.
 """
 
 import os
-from apt.cache import Cache
+#from apt.cache import Cache
 from django.http import Http404
 from django.template.response import TemplateResponse
 from django.utils.translation import ugettext as _, ugettext_lazy

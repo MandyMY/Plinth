@@ -188,7 +188,7 @@ setuptools.setup(
         'django-bootstrap-form',
         'django-stronghold',
         'psutil',
-        'python-apt',
+        #'python-apt',
         'python-augeas',
         'requests',
         'ruamel.yaml',

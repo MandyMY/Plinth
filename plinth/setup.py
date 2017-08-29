@@ -19,7 +19,8 @@
 Plinth module with utilites for performing application setup operations.
 """
 
-import apt
+#import apt
+import dnf
 import logging
 import threading
 
