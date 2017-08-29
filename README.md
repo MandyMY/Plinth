@@ -4,6 +4,8 @@
 [![Debian Testing](https://badges.debian.net/badges/debian/testing/plinth/version.svg)](https://packages.debian.org/testing/plinth)
 [![Debian Stable](https://badges.debian.net/badges/debian/stable/plinth/version.svg)](https://packages.debian.org/stable/plinth)
 
+This repository is for my GSoC work in Fedora —— Migrate Plinth to Fedora Server.
+
 # Plinth
 
 [Plinth](https://wiki.debian.org/FreedomBox/Plinth) - a web front end
