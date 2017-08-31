@@ -4,7 +4,7 @@
 
     On a Debian based system, run:
 
-    $ sudo apt-get install \
+    $ sudo dnf install \
     augeas-tools \
     dblatex \
     docbook-utils \
